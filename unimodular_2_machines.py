@@ -185,5 +185,6 @@ test_all_ufmp_matrices(3, 3) #tests all matrices for small sizes
 
 
 #Other Function Calls:
-#test_all_ufmp_matrices(4, 4, trials=10) #tries random matrices
+
+#tries random matrices
 #test_multiple_ufmp(4, 4, trials=10)
